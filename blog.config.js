@@ -1,17 +1,17 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
+  title: 'JIANG',
+  author: 'jiangjiwei',
+  email: 'jiangjiwei0322@outlook.com',
   link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  description: 'I am a ....',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2021, // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  since: 2019, // If leave this empty, current year will be used.
+  postsPerPage: 100,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
